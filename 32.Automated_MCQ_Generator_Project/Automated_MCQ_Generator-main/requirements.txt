@@ -1,0 +1,11 @@
+langchain
+streamlit
+python-dotenv
+PyPDF2<3.0
+langchain_community
+langchain_experimental
+langchain-google-genai
+pdfreader
+
+#for installation of local packages
+-e .

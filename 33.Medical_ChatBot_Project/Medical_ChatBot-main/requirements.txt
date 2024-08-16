@@ -1,0 +1,13 @@
+ctransformers
+sentence-transformers
+pinecone-client
+langchain
+flask
+pypdf
+python-dotenv
+langchain-community
+langchain-google-genai
+protoc_gen_openapiv2
+langchain_pinecone
+
+-e .

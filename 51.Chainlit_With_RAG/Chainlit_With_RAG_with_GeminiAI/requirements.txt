@@ -1,0 +1,7 @@
+langchain
+chromadb
+tiktoken
+chainlit==1.0.506
+langchain-google-genai
+python-dotenv
+langchain-community

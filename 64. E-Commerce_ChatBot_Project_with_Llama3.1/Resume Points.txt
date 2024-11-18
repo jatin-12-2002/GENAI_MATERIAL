@@ -1,0 +1,3 @@
+1) Built an E-commerce Chatbot using RAG with LLaMA 3.1-8b, HuggingFace embeddings, AstraDB, and LangChain for efficient, context-aware product recommendations.
+2) Managed long response times with Redis and Celery to handle 1-minute server timeouts, maintaining smooth user experience.
+3) Deployed on AWS EC2, leveraging AstraDB for high-performance vector storage and LangChain for seamless interaction flow.

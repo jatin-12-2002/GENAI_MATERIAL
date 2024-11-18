@@ -1,0 +1,10 @@
+1) Built an AI-powered Interview Question Creator using Mistral model, LangChain, and a Retrieval-Augmented Generation (RAG) pipeline with FAISS vector storage for generating domain-specific interview questions.
+
+2) Optimized backend with FastAPI, Redis, and Celery for asynchronous processing and reliable handling of long-running tasks.
+
+3) Deployed on AWS EC2 with a frontend in HTML, CSS, and JavaScript for smooth PDF upload and formatted document downloads.
+
+
+
+
+

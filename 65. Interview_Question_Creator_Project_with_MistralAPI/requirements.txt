@@ -1,0 +1,21 @@
+langchain
+langchain-community
+langchain-core
+pypdf
+tiktoken
+aiofiles
+fastapi
+uvicorn
+jinja2
+python-multipart
+PyPDF2
+faiss-cpu
+python-dotenv
+langchain_mistralai
+python-docx
+rich
+celery[redis]
+redis
+uvicorn
+
+-e .
